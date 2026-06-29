@@ -41,4 +41,5 @@
   --shadow-card: 0 0.9375rem 1.875rem -0.6875rem rgba(131, 166, 210, 0.5);
 
   --width-hero: 33.75rem; /* 540px */
+  --width-features: 70rem; /* 1120px */
 }
