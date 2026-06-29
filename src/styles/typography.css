@@ -1,0 +1,23 @@
+body {
+  color: var(--color-dark);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: var(--letter-spacing-normal);
+  line-height: var(--leading-normal);
+}
+
+h1 {
+  font-size: var(--font-size-lg-fluid);
+  font-weight: var(--font-weight-extra-light);
+  letter-spacing: var(--letter-spacing-wide);
+}
+
+h2 {
+  font-size: var(--font-size-lg-fluid);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: var(--letter-spacing-wide);
+}
+
+p {
+  font-size: var(--font-size-sm);
+}

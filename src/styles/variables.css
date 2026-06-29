@@ -1,0 +1,45 @@
+:root {
+  --color-dark: #4d4f62;
+  --color-medium: #6a7178;
+
+  --color-error: #ea5454;
+  --color-success: #44d3d2;
+  --color-info: #549ef2;
+  --color-warning: #fcae4a;
+
+  --color-bg-card: #fff;
+  --color-bg: #fafafa;
+
+  --font-sans: 'Poppins', sans-serif;
+
+  --font-size-xs: 0.8125rem; /* 13px */
+  --font-size-sm: 0.9375rem; /* 15px */
+  --font-size-md: 1.25rem; /* 20px */
+  --font-size-lg-fluid: clamp(1.5rem, 0.7844rem + 3.0534vw, 2.25rem); /* 24px - 36px */
+
+  --font-weight-extra-light: 200;
+  --font-weight-regular: 400;
+  --font-weight-semibold: 600;
+
+  --leading-tight: 1.35;
+  --leading-normal: 1.4;
+  --leading-relaxed: 1.6;
+
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.25px;
+
+  --radius-md: 0.5rem; /* 8px */
+
+  --spacing-0: 0;
+  --spacing-2: 0.5rem; /* 8px */
+  --spacing-4: 1rem; /* 16px */
+  --spacing-6: 1.5rem; /* 24px */
+  --spacing-8: 2rem; /* 32px */
+  --spacing-10: 2.5rem; /* 40px */
+  --spacing-14: 3.5rem; /* 56px */
+
+  --shadow-card: 0 0.9375rem 1.875rem -0.6875rem rgba(131, 166, 210, 0.5);
+
+  --width-hero: clamp(19.75rem, 6.3912rem + 56.9975vw, 33.75rem); /* 316px - 540px */
+  --width-card: clamp(19.625rem, 15.625rem + 8.3333vw, 21.875rem); /* 314px - 350px */
+}
