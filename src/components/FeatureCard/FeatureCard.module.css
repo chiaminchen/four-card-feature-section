@@ -1,7 +1,6 @@
 .featureCard {
   background-color: var(--color-bg-card);
   box-shadow: var(--shadow-card);
-  max-width: var(--width-card);
   padding: var(--spacing-8);
   display: flex;
   flex-direction: column;

@@ -39,7 +39,4 @@
   --spacing-14: 3.5rem; /* 56px */
 
   --shadow-card: 0 0.9375rem 1.875rem -0.6875rem rgba(131, 166, 210, 0.5);
-
-  --width-hero: clamp(19.75rem, 6.3912rem + 56.9975vw, 33.75rem); /* 316px - 540px */
-  --width-card: clamp(19.625rem, 15.625rem + 8.3333vw, 21.875rem); /* 314px - 350px */
 }

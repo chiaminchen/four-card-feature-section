@@ -1,7 +1,5 @@
 .hero {
   text-align: center;
-  max-width: var(--width-hero);
-  margin-inline: auto;
 }
 
 .hero > h2 {
