@@ -5,6 +5,7 @@ import FeatureCard from '../FeatureCard/FeatureCard';
 function Features() {
   return (
     <section className={styles.features}>
+      <h2 className="sr-only">Features List</h2>
       {featuresData.map(feature => (
         <FeatureCard
           title={feature.title}
