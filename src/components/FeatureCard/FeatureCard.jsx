@@ -2,10 +2,7 @@ import styles from './FeatureCard.module.css';
 
 function FeatureCard({ title, description, color, icon }) {
   return (
-    <article
-      className={styles.featureCard}
-      style={{ borderTop: `5px solid var(--color-${color})` }}
-    >
+    <article className={styles.featureCard} data-color={color}>
       <div>
         <h3 className={styles.title}>{title}</h3>
         <p className={styles.description}>{description}</p>

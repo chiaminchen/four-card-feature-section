@@ -9,6 +9,22 @@
   border-radius: var(--radius-md);
 }
 
+.featureCard[data-color='success'] {
+  border-top: 5px solid var(--color-success);
+}
+
+.featureCard[data-color='error'] {
+  border-top: 5px solid var(--color-error);
+}
+
+.featureCard[data-color='warning'] {
+  border-top: 5px solid var(--color-warning);
+}
+
+.featureCard[data-color='info'] {
+  border-top: 5px solid var(--color-info);
+}
+
 .title {
   font-size: var(--font-size-md);
   font-weight: var(--font-weight-semibold);
